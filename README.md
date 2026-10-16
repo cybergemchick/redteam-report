@@ -1,6 +1,6 @@
 # AI Red Team Report Template
 
-A professional Word document template for AI/LLM red team engagement reports — built for practitioners who need a structured, polished deliverable that communicates findings clearly to both technical and executive audiences.
+A professional Word document template for AI/LLM red team engagement reports: built for practitioners who need a structured, polished deliverable that communicates findings clearly to both technical and executive audiences.
 
 **Built by:** [CyberGemChick](https://github.com/cybergemchick) | AI Red Team
 
@@ -8,7 +8,7 @@ A professional Word document template for AI/LLM red team engagement reports —
 
 ## What's Included
 
-**AI_RedTeam_Report_Template.docx** — A complete report template covering:
+**AI_RedTeam_Report_Template.docx**: A complete report template covering:
 
 | Section | Contents |
 |---------|----------|
@@ -17,7 +17,7 @@ A professional Word document template for AI/LLM red team engagement reports —
 | Engagement Overview | Scope, authorization, timeline, methodology |
 | Attack Surface Summary | 5-layer AI attack surface table (Input/Model/Context/Output/Agentic) |
 | Findings | Pre-formatted finding cards with severity, OWASP LLM, ATLAS mapping, evidence, remediation |
-| Recommendations | Tiered by immediacy: 0–7 days, 30 days, 90 days |
+| Recommendations | Tiered by immediacy: 0 to 7 days, 30 days, 90 days |
 | Appendix A | MITRE ATLAS technique coverage matrix |
 
 ## Who This Is For
@@ -39,19 +39,19 @@ A professional Word document template for AI/LLM red team engagement reports —
 
 | Severity | CVSS Range | SLA |
 |----------|-----------|-----|
-| CRITICAL | 9.0–10.0 | Remediate within 24 hours |
-| HIGH | 7.0–8.9 | Remediate within 7 days |
-| MEDIUM | 4.0–6.9 | Remediate within 30 days |
-| LOW | 0.1–3.9 | Remediate within 90 days |
+| CRITICAL | 9.0 to 10.0 | Remediate within 24 hours |
+| HIGH | 7.0 to 8.9 | Remediate within 7 days |
+| MEDIUM | 4.0 to 6.9 | Remediate within 30 days |
+| LOW | 0.1 to 3.9 | Remediate within 90 days |
 
 ## TLP Classification Guidance
 
 This template uses **TLP:RED** (Traffic Light Protocol). Adjust based on your engagement:
 
-- **TLP:RED** — Not for distribution; named recipients only
-- **TLP:AMBER** — Limited distribution; need-to-know within the organization
-- **TLP:GREEN** — Community-shareable; not for public posting
-- **TLP:CLEAR** — Unrestricted
+- **TLP:RED**: Not for distribution; named recipients only
+- **TLP:AMBER**: Limited distribution; need-to-know within the organization
+- **TLP:GREEN**: Community-shareable; not for public posting
+- **TLP:CLEAR**: Unrestricted
 
 ## References
 
